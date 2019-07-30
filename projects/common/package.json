@@ -1,0 +1,8 @@
+{
+	"name": "@lcu-mike-test/lcu-mike-server-test-common",
+	"version": "0.0.1",
+	"peerDependencies": {
+		"@angular/common": "^8.1.3",
+		"@angular/core": "^8.1.3"
+	}
+}

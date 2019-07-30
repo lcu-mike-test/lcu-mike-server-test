@@ -1,0 +1,14 @@
+{ 
+    "templates": {
+        "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+        "scope": "@lcu-mike-test",
+        "workspace": "lcu-mike-server-test"
+    },
+    "config": {
+      "wc": ["wc/lcu-mike-server-test.lcu.js"],
+      "solutions": {},
+      "elements": {},
+      "flux": {},
+      "dependencies": {}
+    }
+}
